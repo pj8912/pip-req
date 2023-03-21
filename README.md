@@ -14,10 +14,10 @@ To use the `fzr` and `fzrin` scripts, follow these steps:
 2. Open a terminal and navigate to the directory where you saved the repository.
 3. Make the scripts executable by running the following commands:
 ```
-chmod +x fzr
+sudo chmod +x fzr
 ```
 ```
-chmod +x fzrin
+sudo chmod +x fzrin
 ```
 4. (Optional) If you want to use the scripts as commands from anywhere on your system, you can add the directory to your system's `PATH` environment variable by running the following command:
 export PATH=$PATH:/path/to/repository/
