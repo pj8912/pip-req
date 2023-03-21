@@ -8,16 +8,16 @@ To use these scripts, you need to have Python and pip installed on your system.
 
 ## Usage
 
-To use the `fzr` and `fzrin` scripts, follow these steps:
+To use the `fzr.sh` and `fzrin.sh` scripts, follow these steps:
 
 1. Download or clone this repository to your computer.
 2. Open a terminal and navigate to the directory where you saved the repository.
 3. Make the scripts executable by running the following commands:
 ```
-sudo chmod +x fzr
+sudo chmod +x fzr.sh
 ```
 ```
-sudo chmod +x fzrin
+sudo chmod +x fzrin.sh
 ```
 4. (Optional) If you want to use the scripts as commands from anywhere on your system, you can add the directory to your system's `PATH` environment variable by running the following command:
 export PATH=$PATH:/path/to/repository/
